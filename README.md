@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarjeetverma
-- 👀 I’m interested in selenium automation.
+- 👀 I’m interested in automation.
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on automation.
 - 📫 How to reach me - on call +27846792152
